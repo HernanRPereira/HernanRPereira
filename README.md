@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Hernan Pereira 👋
 
-<!--
-**HernanRPereira/HernanRPereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer focused on building APIs and backend systems.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Node.js
+- NestJS
+- MongoDB
+- REST APIs
+- Git
+
+## Featured Projects
+
+🔹 API for CSV Processing (NestJS + MongoDB)  
+🔹 Authentication API with JWT  
+🔹 Backend system with role-based access
