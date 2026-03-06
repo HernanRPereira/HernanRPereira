@@ -16,11 +16,8 @@ Backend Developer focused on building APIs and backend systems.
 🔹 Authentication API with JWT  
 🔹 Backend system with role-based access
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HernanRPereira&show_icons=true&theme=chartreuse-dark)
+![Hernan GitHub stats](https://github-readme-stats.vercel.app/api?username=HernanRPereira&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HernanRPereira&layout=compact&theme=chartreuse-dark)
-5. Crear la animación de la serpiente
-
-Esto usa un proyecto de Platane.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HernanRPereira&layout=compact)
