@@ -18,6 +18,4 @@ Backend Developer focused on building APIs and backend systems.
 
 ## 📊 GitHub Stats
 
-![Hernan GitHub stats](https://github-readme-stats.vercel.app/api?username=HernanRPereira&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HernanRPereira&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HernanRPereira&show_icons=true&cache_seconds=1800)
