@@ -16,6 +16,3 @@ Backend Developer focused on building APIs and backend systems.
 🔹 Authentication API with JWT  
 🔹 Backend system with role-based access
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HernanRPereira&show_icons=true&cache_seconds=1800)
